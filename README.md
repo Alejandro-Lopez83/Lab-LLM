@@ -1,8 +1,3 @@
-# Lab-LLM
-Lab LLM
-Claro, te voy a proporcionar una explicación más detallada, desglosando cada parte del código y explicando de manera más profunda los métodos, funciones y técnicas utilizadas. Esto te permitirá no solo presentar el código, sino también comprenderlo en profundidad.
-
----
 
 ## **Documentación del Proyecto: Clasificador de Noticias Falsas con XLM-RoBERTa**
 
