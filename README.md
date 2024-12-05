@@ -23,7 +23,7 @@ El conjunto de datos se divide en dos subconjuntos: uno para entrenamiento y otr
 
 ```python
 train_texts, val_texts, train_labels, val_labels = train_test_split(
-    df['text'].tolist(),
+    df['text'].tolist(),a
     df['label'].tolist(),
     test_size=0.2,
     random_state=42,
